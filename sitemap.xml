@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://athackst.github.io/dockerfiles/</loc>
-     <lastmod>2021-02-12</lastmod>
+     <lastmod>2021-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://athackst.github.io/dockerfiles/gazebo/</loc>
-     <lastmod>2021-02-12</lastmod>
+     <lastmod>2021-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://athackst.github.io/dockerfiles/github/</loc>
-     <lastmod>2021-02-12</lastmod>
+     <lastmod>2021-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://athackst.github.io/dockerfiles/ignition/</loc>
-     <lastmod>2021-02-12</lastmod>
+     <lastmod>2021-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://athackst.github.io/dockerfiles/ros/</loc>
-     <lastmod>2021-02-12</lastmod>
+     <lastmod>2021-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://athackst.github.io/dockerfiles/ros2/</loc>
-     <lastmod>2021-02-12</lastmod>
+     <lastmod>2021-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
