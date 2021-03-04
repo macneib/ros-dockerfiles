@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://athackst.github.io/dockerfiles/</loc>
-     <lastmod>2021-03-01</lastmod>
+     <loc>https://macneib.github.io/ros-dockerfiles/</loc>
+     <lastmod>2021-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://athackst.github.io/dockerfiles/gazebo/</loc>
-     <lastmod>2021-03-01</lastmod>
+     <loc>https://macneib.github.io/ros-dockerfiles/gazebo/</loc>
+     <lastmod>2021-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://athackst.github.io/dockerfiles/github/</loc>
-     <lastmod>2021-03-01</lastmod>
+     <loc>https://macneib.github.io/ros-dockerfiles/github/</loc>
+     <lastmod>2021-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://athackst.github.io/dockerfiles/ignition/</loc>
-     <lastmod>2021-03-01</lastmod>
+     <loc>https://macneib.github.io/ros-dockerfiles/ignition/</loc>
+     <lastmod>2021-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://athackst.github.io/dockerfiles/ros/</loc>
-     <lastmod>2021-03-01</lastmod>
+     <loc>https://macneib.github.io/ros-dockerfiles/ros/</loc>
+     <lastmod>2021-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://athackst.github.io/dockerfiles/ros2/</loc>
-     <lastmod>2021-03-01</lastmod>
+     <loc>https://macneib.github.io/ros-dockerfiles/ros2/</loc>
+     <lastmod>2021-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
