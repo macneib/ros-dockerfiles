@@ -16,8 +16,8 @@ jobs:
         run: |
           wget https://github.com/athackst/athackst.github.io/archive/mkdocs.zip -O temp.zip
           unzip temp.zip
-          mv macneib.github.io-mkdocs/* .
+          mv athackst.github.io-mkdocs/* .
           rm temp.zip
           cat mkdocs.yml
       - name: MkDocs Simple action
-        uses: macneib/mkdocs-simple-plugin@v0.4.0
+        uses: athackst/mkdocs-simple-plugin@v0.4.0
