@@ -1,9 +1,11 @@
 # dockerfiles
 
-![publish_docs](https://github.com/athackst/dockerfiles/workflows/publish_docs/badge.svg)
-![push_dockerfiles](https://github.com/athackst/dockerfiles/workflows/push_dockerfiles/badge.svg)
+![publish_docs](https://github.com/macneib/dockerfiles/workflows/publish_docs/badge.svg)
+![push_dockerfiles](https://github.com/macneib/dockerfiles/workflows/push_dockerfiles/badge.svg)
 
-These are multi-stage docker images I use for developing with [VSCode](https://code.visualstudio.com/).
+These are multi-stage docker images used for developing with [VSCode](https://code.visualstudio.com/).
+
+This is a fork of the awesome [athackst dockerfiles repo](https://github.com/athackst/dockerfiles).
 
 See [how I develop with vscode and docker](https://www.allisonthackston.com/articles/docker_development.html).
 
@@ -14,15 +16,15 @@ Instructions on how to duplicate my IDE:
 
 ## Quick start
 
-Grab the docker image from [docker hub](https://hub.docker.com/u/athackst).  This repo provides the images in:
+Grab the docker image from [docker hub](https://hub.docker.com/u/macneib).  This repo provides the images in:
 
-* [athackst/ros](https://hub.docker.com/r/athackst/ros)
-* [athackst/ros2](https://hub.docker.com/r/athackst/ros2)
-* [athackst/gazebo](https://hub.docker.com/r/athackst/gazebo)
-* [atahckst/igntion](https://hub.docker.com/r/athackst/ignition)
-* [athackst/github](https://hub.docker.com/r/athackst/github)
+* [macneib/ros](https://hub.docker.com/r/macneib/ros)
+* [macneib/ros2](https://hub.docker.com/r/macneib/ros2)
+* [macneib/gazebo](https://hub.docker.com/r/macneib/gazebo)
+* [atahckst/igntion](https://hub.docker.com/r/macneib/ignition)
+* [macneib/github](https://hub.docker.com/r/macneib/github)
 
-Then, set up a [vscode workspace](https://github.com/athackst/vscode_ros2_workspace).
+Then, set up a [vscode workspace](https://github.com/macneib/vscode_ros2_workspace).
 
 ## Build from source
 
@@ -43,3 +45,8 @@ To see help information and build options
 ```bash
 ./build.py --help
 ```
+
+
+## Thank you
+
+Many thanks to [athackst](https://www.allisonthackston.com) for providing this to the community!

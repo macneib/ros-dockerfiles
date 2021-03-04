@@ -14,10 +14,10 @@ jobs:
         uses: actions/checkout@v2
       - name: Setup config
         run: |
-          wget https://github.com/athackst/athackst.github.io/archive/mkdocs.zip -O temp.zip
+          wget https://github.com/macneib/macneib.github.io/archive/mkdocs.zip -O temp.zip
           unzip temp.zip
-          mv athackst.github.io-mkdocs/* .
+          mv macneib.github.io-mkdocs/* .
           rm temp.zip
           cat mkdocs.yml
       - name: MkDocs Simple action
-        uses: athackst/mkdocs-simple-plugin@v0.4.0
+        uses: macneib/mkdocs-simple-plugin@v0.4.0

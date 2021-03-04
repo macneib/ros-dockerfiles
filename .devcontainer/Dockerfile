@@ -32,7 +32,7 @@ RUN apt-get update \
 
 RUN echo ". /usr/share/bash-completion/completions/git"  >> /home/${USERNAME}/.bashrc \
     && echo ". /usr/share/bash-completion/completions/docker"  >> /home/${USERNAME}/.bashrc \
-    && wget -O /etc/profile.d/git_aliases.sh https://github.com/athackst/workstation_setup/raw/main/user/.aliases/git_aliases.sh \
+    && wget -O /etc/profile.d/git_aliases.sh https://github.com/macneib/workstation_setup/raw/main/user/.aliases/git_aliases.sh \
     && echo "source /etc/profile.d/git_aliases.sh" >> /home/${USERNAME}/.bashrc
 
 # Setting the ENTRYPOINT to docker-init.sh will configure non-root access to 

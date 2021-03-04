@@ -9,7 +9,7 @@ from settings import images
 from generate import generate as gen
 
 TODAY = date.today()
-USER = "athackst"
+USER = "macneib"
 
 log = logging.getLogger(__name__)
 
